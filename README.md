@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domanick01" alt="domanick01" /></a> </p>
 
-- 🌱 I’m currently learning **python, git**
+- 🌱 I’m currently learning **Python, Git, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Domanick01](https://github.com/Domanick01)
 
-- 💬 Ask me about **nothing 😭**
+- 💬 Ask me about **My Workflow**
 
 - 📫 How to reach me **domanick731@gmail.com**
 
